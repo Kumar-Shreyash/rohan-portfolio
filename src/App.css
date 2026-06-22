@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  h1, h2, h3, h4,p,button,li,Link,a {
+    font-family: 'Raleway', sans-serif;
+  }
